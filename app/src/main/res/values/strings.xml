@@ -5,8 +5,8 @@
     <string name="show_fb_ads">ON</string>
 
     <!-- FB ADS_PLACEMENT_ID -->
-    <string name="fb_BANNER_PLACEMENT_ID">813503076838948_813516763504246</string>
-    <string name="fb_INTERSTITIAL_PLACEMENT_ID">813503076838948_813517083504214</string>
+    <string name="fb_BANNER_PLACEMENT_ID">id</string>
+    <string name="fb_INTERSTITIAL_PLACEMENT_ID">id</string>
 
 
 
