@@ -11,11 +11,6 @@ import android.webkit.WebView;
 
 import androidx.annotation.RequiresApi;
 
-/**
- * Created by Palash on 23-Nov-16.
- * The main PlayerView that inherits a Webview, loads a custom specified HTML/CSS/JS code and provides callback and helper functions to control the video playback
- */
-
 public class MasterJubaYoutube extends WebView {
 
 	public static final int BUFFERING = 3;
