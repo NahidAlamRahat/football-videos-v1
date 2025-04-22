@@ -45,18 +45,6 @@ import java.util.List;
 
 public class Home extends AppCompatActivity {
 
-
-
-
-
-    /*
-    >>Source Code by
-    >>Jubayer Hossain [https://www.facebook.com/JubayerHossainbd]
-    >>Please don't forget to put a review on my site [www.na_rahat.com]
-    >>Share my course with your friends on Facebook
-    >>Your positive words help me doing even better
-     */
-
     AdView mAdView;
     public static int CategoryClicked = -10;
     ImageSlider imageSlider;
@@ -72,10 +60,6 @@ public class Home extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
-
-
-
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
@@ -111,15 +95,10 @@ public class Home extends AppCompatActivity {
         adapter.notifyDataSetChanged();
 
 
-
-
-
-
     } //------------------------------onCreate (bundle) ENDS here
 
 
-
-                           // FB Ads
+                       // FB Ads
 
     private com.facebook.ads.AdView adView;
     int FB_BANNER_AD_CLICK_COUNT = 0;
@@ -413,17 +392,6 @@ public class Home extends AppCompatActivity {
 
 
 
-
-
-
-
-
-
-
-
-    //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-    //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
     //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
     //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -547,10 +515,6 @@ public class Home extends AppCompatActivity {
 
 
     } // end of onBackpressed method
-
-    //#############################################################################################
-
-
 
 
 
