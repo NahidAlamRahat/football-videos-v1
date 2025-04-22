@@ -51,18 +51,6 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-        /*
-    >>Source Code provided by
-    >>Jubayer Hossain [https://www.facebook.com/JubayerHossainbd]
-    >>Please don't forget to put a review on my site [www.na_rahat.com]
-    >>Share my course with your friends on Facebook
-    >>Your positive words help me doing even better
-     */
-
-
-
-
-
     MasterJubaYoutube webYouTube;
     LinearLayout layoutContainer;
     LottieAnimationView myLottie;
@@ -88,9 +76,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Home.CategoryClicked = -10;
-
-
-
 
 
 
@@ -790,8 +775,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
-    ///==============================================
-    ///==============================================
+    
     ///==============================================
     ///==============================================
 
