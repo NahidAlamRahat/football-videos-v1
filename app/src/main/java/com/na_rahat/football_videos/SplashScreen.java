@@ -37,14 +37,6 @@ public class SplashScreen extends AppCompatActivity {
 
 
 
-
-
-
-
-
-
-
-
         //For Splash Screen
         final Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
@@ -58,14 +50,6 @@ public class SplashScreen extends AppCompatActivity {
 
             }
         },1000);
-
-
-
-
-
-
-
-
 
 
 
